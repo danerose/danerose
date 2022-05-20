@@ -29,7 +29,7 @@ I love the color pink in certain context, like in plants or in my favorite tree,
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 <p>
-<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
+<a href="https://loopback.io/" target="_blank"> <img align="left" src="https://loopback.io/images/global/loopback-mark-frame-white.svg" alt="pytorch" height="42px"/> </a> 
 </p>
 
 &nbsp;
