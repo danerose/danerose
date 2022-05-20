@@ -72,7 +72,7 @@ I love the color pink in certain context, like in plants or in my favorite tree,
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdcGTyHFS1shUTFQxkJn-ZI33M2UkvznM_san62L8n8T5A4SMdYRW7bv0jWROXEPdlsl0&usqp=CAU" height="100px" width="180" alt="twilio-logo">
   <img src="https://miro.medium.com/max/1400/1*vuSRFX-SjRovtXC1QQg0zA.png"  height="100px" width="150" alt="segment-io-logo">
   <img src="https://stripe.com/img/v3/newsroom/social.png"  height="100px" width="150" alt="stripe-logo">
-  <img src="https://www.pngitem.com/pimgs/m/93-934578_ko-fi-logo-png-transparent-png.png" height="100px" width="150" alt="kofi-logo">
+  <img src="https://www.pngitem.com/pimgs/m/93-934578_ko-fi-logo-png-transparent-png.png" height="100px" width="180" alt="kofi-logo">
 </p>
 
 ## Learning Topics
