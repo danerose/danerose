@@ -29,11 +29,11 @@ I love the color pink in certain context, like in plants or in my favorite tree,
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 
-# Learning Topics
+## Learning Topics
 
 
 
-# Languages:
+## Languages:
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 [![JAVA](https://img.shields.io/badge/JAVA-E34F26?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![KOTLIN](https://img.shields.io/badge/KOTLIN-1572B6?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
@@ -47,21 +47,21 @@ I love the color pink in certain context, like in plants or in my favorite tree,
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
-# Databases
+## Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Learning Databases
+#### Learning Databases
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-### Design Tools
+## Design Tools
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
 
 
-# Links that may interest you
+## Links that may interest you
 
 [M BADGES](https://github.com/Ileriayo/markdown-badges) - Add badges to your Profile and Projects.
 
