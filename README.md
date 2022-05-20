@@ -1,3 +1,4 @@
+![Its me, Alexis](header.png)
 ## Hi there 👋
 
 My name is Alexis, I am a person that everyone would say is introverted, but once I feel comfortable in an environment, i feel that I can accomplish anything with my entire team.
