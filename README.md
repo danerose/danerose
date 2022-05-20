@@ -52,6 +52,7 @@ I love the color pink in certain context, like in plants or in my favorite tree,
 
 <br/>
 <br/>
+<br/>
 
 # Languages I use:
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
@@ -71,6 +72,10 @@ I love the color pink in certain context, like in plants or in my favorite tree,
     <img height="200px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=danerose&theme=gruvbox_light&layout=compact"/>
 </div>
 
+<br/>
+<br/>
+<br/>
+
 # Databases I use
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -78,6 +83,9 @@ I love the color pink in certain context, like in plants or in my favorite tree,
 #### Learning Databases
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
+<br/>
+<br/>
+<br/>
 
 # Design Tools I use
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
