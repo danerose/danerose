@@ -73,7 +73,7 @@ I love the color pink in certain context, like in plants or in my favorite tree,
   <img src="https://miro.medium.com/max/1400/1*vuSRFX-SjRovtXC1QQg0zA.png"  height="100px" width="180" alt="segment-io-logo">
   <img src="https://stripe.com/img/v3/newsroom/social.png"  height="100px" width="150" alt="stripe-logo">
   <img src="https://www.pngitem.com/pimgs/m/93-934578_ko-fi-logo-png-transparent-png.png" height="100px" width="180" alt="kofi-logo">
-  <img src="https://www.pngitem.com/pimgs/m/93-934578_ko-fi-logo-png-transparent-png.png" height="100px" width="180" alt="kofi-logo">" height="100px" width="180" alt="kubernetes-logo">
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.png" height="100px" width="180" alt="kunernetes-logo">"
   <img src="https://logos-marcas.com/wp-content/uploads/2021/03/Docker-Logotipo-2015-2017.jpg" height="100px" width="180" alt="docker-logo">
 </p>
 
