@@ -65,6 +65,18 @@ I love the color pink in certain context, like in plants or in my favorite tree,
 
 [M BADGES](https://github.com/Ileriayo/markdown-badges)
 
+
+
+<!--🦶FOOTER--> 
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
+<!--⚽️ACTIVITY / 🌐WEBSITE: https://github.com/Readme-Workflows/recent-activity -->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+<p align="right">
+<!--RECENT_ACTIVITY:last_update-->
+<i>Last refresh</i>: <b>Thursday, May 19th, 2022, 8:24:30 PM</b>
+<!--RECENT_ACTIVITY:last_update_end-->
+
 <!--
 **danerose/danerose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
