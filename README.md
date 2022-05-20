@@ -52,6 +52,11 @@ I love the color pink in certain context, like in plants or in my favorite tree,
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
 
+<div align="center">
+    <img height="200px" src="https://github-readme-stats-api-danerose.vercel.app/api/top-langs/?username=danerose&theme=gruvbox_light&layout=compact"/>
+</div>
+
+
 # Databases I use
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
