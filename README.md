@@ -67,12 +67,12 @@ I love the color pink in certain context, like in plants or in my favorite tree,
 
 #### Learning Third API´s & Tools
 <p>
-  <img src="https://www.jenkins.io/images/logo-title-opengraph.png"  height="100px" width="150" alt="jenkins-logo">
-  <img src="https://cdn.worldvectorlogo.com/logos/sonarqube.svg" height="100px" width="150" alt="sonarqube-logo">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdcGTyHFS1shUTFQxkJn-ZI33M2UkvznM_san62L8n8T5A4SMdYRW7bv0jWROXEPdlsl0&usqp=CAU" height="100px" width="150" alt="twilio-logo">
-  <img src="https://www.themecanal.com/wp-content/uploads/WooCommerce-Segment.io-Integration.png"  height="100px" width="150" alt="segment-io-logo">
+  <img src="https://www.jenkins.io/images/logo-title-opengraph.png"  height="100px" width="180" alt="jenkins-logo">
+  <img src="https://www.sonarqube.org/logos/index/sonarqube-logo.png" height="100px" width="180" alt="sonarqube-logo">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdcGTyHFS1shUTFQxkJn-ZI33M2UkvznM_san62L8n8T5A4SMdYRW7bv0jWROXEPdlsl0&usqp=CAU" height="100px" width="180" alt="twilio-logo">
+  <img src="https://miro.medium.com/max/1400/1*vuSRFX-SjRovtXC1QQg0zA.png"  height="100px" width="150" alt="segment-io-logo">
   <img src="https://stripe.com/img/v3/newsroom/social.png"  height="100px" width="150" alt="stripe-logo">
-  <img src="https://2.bp.blogspot.com/-PnGS-KLkTNo/W2wLphwVu8I/AAAAAAAAaC0/zO2YTj7q1nI3v9YUIEz0FaQ43m39X3zUACK4BGAYYCw/s1600/Ko-fi_Logo_Blue_1000px.png" height="100px" width="150" alt="kofi-logo">
+  <img src="https://www.pngitem.com/pimgs/m/93-934578_ko-fi-logo-png-transparent-png.png" height="100px" width="150" alt="kofi-logo">
 </p>
 
 ## Learning Topics
