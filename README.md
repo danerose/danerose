@@ -63,7 +63,7 @@ I love the color pink in certain context, like in plants or in my favorite tree,
 
 # Links that may interest you
 
-[M BADGES](https://github.com/Ileriayo/markdown-badges)
+[M BADGES](https://github.com/Ileriayo/markdown-badges) - Add badges to your Profile and Projects.
 
 
 
