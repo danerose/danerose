@@ -57,12 +57,15 @@ I love the color pink in certain context, like in plants or in my favorite tree,
 ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
-## Third API´s
+## Third API´s & Tools
 <p>
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849659/jquery_lvyzat.png" alt="jquery-logo">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Google_Maps_Logo_2020.svg/2275px-Google_Maps_Logo_2020.svg.png" alt="google-maps-logo">
+  <img src="http://www.geomapik.com/wp-content/uploads/2019/02/Mapbox_Logo.svg.png" alt="mapbox-gl-logo">
+  <img src="https://images.ctfassets.net/h6ufgtwb6nv1/HLiM3QYunR01XiAforUn6/4e53dc81b2de8f757f5a91d2c007c965/this-one.svg" alt="onesignal-logo">
+  <img src="https://keytotech.com/wp-content/uploads/2019/05/firebase.png" alt="firebase-logo">
 </p>
 
-#### Learning Third API´s
+#### Learning Third API´s & Tools
 <p>
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849659/jquery_lvyzat.png" alt="jquery-logo">
 </p>
