@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 My name is Alexis, I am a person that everyone would say is introverted, but once I feel comfortable in an environment, i feel that I can accomplish anything with my entire team.
 
@@ -6,7 +6,7 @@ I think that like many developers, in spite of loving what we do, sometimes we a
 
 I love the color pink in certain context, like in plants or in my favorite tree, Sakura.
 
-## Frameworks, Platforms and Libraries
+# Frameworks, Platforms and Libraries
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
@@ -29,17 +29,17 @@ I love the color pink in certain context, like in plants or in my favorite tree,
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 
-## Learning Topics
+# Learning Topics
 
 
 
-## Languages:
+# Languages:
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 [![JAVA](https://img.shields.io/badge/JAVA-E34F26?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![KOTLIN](https://img.shields.io/badge/KOTLIN-1572B6?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 
-### Learning Langauges
+#### Learning Langauges
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -47,7 +47,7 @@ I love the color pink in certain context, like in plants or in my favorite tree,
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
-### Databases
+# Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
