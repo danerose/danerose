@@ -59,10 +59,10 @@ I love the color pink in certain context, like in plants or in my favorite tree,
 
 ## Third API´s & Tools
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Google_Maps_Logo_2020.svg/2275px-Google_Maps_Logo_2020.svg.png" height="40px"  alt="google-maps-logo">
-  <img src="http://www.geomapik.com/wp-content/uploads/2019/02/Mapbox_Logo.svg.png" alt="mapbox-gl-logo">
-  <img src="https://images.ctfassets.net/h6ufgtwb6nv1/HLiM3QYunR01XiAforUn6/4e53dc81b2de8f757f5a91d2c007c965/this-one.svg" alt="onesignal-logo">
-  <img src="https://keytotech.com/wp-content/uploads/2019/05/firebase.png" alt="firebase-logo">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Google_Maps_Logo_2020.svg/2275px-Google_Maps_Logo_2020.svg.png" height="200px"  alt="google-maps-logo">
+  <img src="http://www.geomapik.com/wp-content/uploads/2019/02/Mapbox_Logo.svg.png" height="200px" alt="mapbox-gl-logo">
+  <img src="https://images.ctfassets.net/h6ufgtwb6nv1/HLiM3QYunR01XiAforUn6/4e53dc81b2de8f757f5a91d2c007c965/this-one.svg" height="200px" alt="onesignal-logo">
+  <img src="https://keytotech.com/wp-content/uploads/2019/05/firebase.png" height="200px" alt="firebase-logo">
 </p>
 
 #### Learning Third API´s & Tools
