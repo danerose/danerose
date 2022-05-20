@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is Alexis, I am a person that everyone would say is introverted, but once I feel comfortable in an environment, i feel that I can accomplish anything with my entire team.
+
+I think that like many developers, in spite of loving what we do, sometimes we are overwhelmed by the immense sea of new technologies to learn, however I think that keeps us motivated, the fact of thinking we can be much better than we already are.
+
+I love the color pink in certain context, like in plants or in my favorite tree, Sakura.
+
+
 <!--
 **danerose/danerose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
