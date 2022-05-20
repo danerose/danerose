@@ -1,8 +1,8 @@
 ![Its me, Alexis](header.png)
 
 <div>
-    <a href="https://novakcgx.me">
-        <img height="32" align="left" alt="Website" src="img/icons/personal.png" />
+    <a href="https://paypal.me/dnguy38">
+        <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/paypal.png" />
     </a>
 </div>
 
